@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/Player/PlayerCharacter.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Maps/TestMap.umap",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/ARStatsComponent.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/ShotgunStatsComponent.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/BRStatsComponent.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/DMRStatsComponent.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/FPSDemoGameContent/Characters/HeroFPP/HeroFPP.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/FPSDemoGameContent/Characters/HeroFPP/HeroFPP_Skeleton.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/SMGStatsComponent.uasset"
+			]
+		}
+	]
+}
