@@ -13,7 +13,13 @@
 				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/DMRStatsComponent.uasset",
 				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/FPSDemoGameContent/Characters/HeroFPP/HeroFPP.uasset",
 				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/FPSDemoGameContent/Characters/HeroFPP/HeroFPP_Skeleton.uasset",
-				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/SMGStatsComponent.uasset"
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/WeaponComponents/SMGStatsComponent.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/FPSDemoGameContent/Characters/HeroFPP/HeroFPP_AnimationBlueprint.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/Player/PlayerCharacterInterface.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/Player/PlayerController.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/FirstPersonGamemode.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/Enemies/EnemyCharacter.uasset",
+				"C:/UnrealProjects/ShooterGame 5.0 5.3/Content/MainContent/Blueprint/Bolts/BoltFollower.uasset"
 			]
 		}
 	]
